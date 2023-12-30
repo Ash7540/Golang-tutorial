@@ -1,0 +1,31 @@
+go 1.20
+
+use (
+	./array
+	./conversion
+	./mytime
+	./pointers
+	./slice
+	./map
+	./structs
+	./if-else
+	./switch
+	./loop
+	./function
+	./methods
+	./defer
+	./files
+	./webrequest
+	./urlhandling
+	./webreqverbs
+	./jsonstudy
+	./mymodules
+	./buildapi
+	./mongoapi
+	./goroutine
+	./mutexAndAwaitGroups
+	./channel
+	./mymath
+	./lexer
+)
+
